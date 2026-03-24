@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Live Weather",
+    "desc": "Live Weather is a responsive weather web application that provides real-time weather for any city. Fetch live data from a public Weather API.",
+    "image": "webapp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sayanpal514-hue.github.io/live-weather/",
+      "code": "https://github.com/sayanpal514-hue/live-weather"
+    }
+  },
+  {
+    "name": "Tossify",
+    "desc": "Tossify is a simple web application that simulates a coin toss. User can click a button to randomly generates heads or tails.",
+    "image": "tossify",
+    "category": "basicweb",
+    "links": {
+      "view": "https://tossify.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/tossify"
+    }
+  },
+  {
+    "name": "GrowthX",
+    "desc": "Developed a responsive SIP and Lumpsum Mutual Fund calculator to help users visualize long-term wealth creation through compounding.",
+    "image": "sip",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sayanpal514-hue.github.io/SIP-Calculator/",
+      "code": "https://github.com/sayanpal514-hue/SIP-Calculator"
+    }
+  },
+  {
+    "name": "Zestora",
+    "desc": "Zestora is a full-stack MERN eCommerce application featuring product listings, secure authentication, and robust cart functionality.",
+    "image": "zestora",
+    "category": "mern",
+    "links": {
+      "view": "https://zestora-sayan.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/Zestora"
+    }
+  }
+]
+
