@@ -118,8 +118,8 @@ function showProjects(projects) {
         <div class="desc">
           <p>${project.desc}</p>
           <div class="btns">
-            <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+            <a href="${project.links.view}" class="btn" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Live View" style="width: 20px; vertical-align: middle; margin-right: 5px;"/> View</a>
+            <a href="${project.links.code}" class="btn" target="_blank">Code <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" style="width: 20px; vertical-align: middle; margin-left: 5px;"/></a>
           </div>
         </div>
       </div>

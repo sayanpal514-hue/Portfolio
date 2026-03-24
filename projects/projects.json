@@ -38,6 +38,16 @@
       "view": "https://zestora-sayan.vercel.app/",
       "code": "https://github.com/sayanpal514-hue/Zestora"
     }
+  },
+  {
+    "name": "All-Movies",
+    "desc": "All-Movies is a full-stack MERN application for browsing and discovering movies.",
+    "image": "allmovies",
+    "category": "mern",
+    "links": {
+      "view": "https://all-movies-sayan.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/All-Movies"
+    }
   }
 ]
 
