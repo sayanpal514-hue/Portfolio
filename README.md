@@ -3,7 +3,7 @@
   <h1>Sayan Pal | Personal Portfolio</h1>
   <p>A clean, responsive, and dynamic personal portfolio website to showcase my skills, experience, and projects.</p>
 
-  <a href="https://sayanpal514-hue.github.io/Portfolio-Website-main/" target="_blank">
+  <a href="https://sayanpal.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/View_Live_Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live View">
   </a>
 </div>
