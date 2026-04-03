@@ -1,5 +1,15 @@
 [
   {
+    "name": "Instagram Downloader",
+    "desc": "A robust web application to easily download your favorite Instagram content like reels and photos in seconds.",
+    "image": "insta_downloader",
+    "category": "basicweb",
+    "links": {
+      "view": "https://instagram-dowloader-app-10.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/instagram-dowloader-app-10"
+    }
+  },
+  {
     "name": "Live Weather",
     "desc": "Live Weather is a responsive weather web application that provides real-time weather for any city. Fetch live data from a public Weather API.",
     "image": "webapp",
