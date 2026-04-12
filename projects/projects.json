@@ -58,6 +58,16 @@
       "view": "https://all-movies-sayan.vercel.app/",
       "code": "https://github.com/sayanpal514-hue/All-Movies"
     }
+  },
+  {
+    "name": "Resume Maker",
+    "desc": "A real-time interactive resume builder with a live preview system, structured sections, and a sleek modern interface.",
+    "image": "resume_maker",
+    "category": "basicweb",
+    "links": {
+      "view": "https://resume-maker-18.pages.dev/",
+      "code": "https://github.com/sayanpal514-hue/Resume-Maker"
+    }
   }
 ]
 
