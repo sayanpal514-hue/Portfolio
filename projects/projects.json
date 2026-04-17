@@ -68,6 +68,25 @@
       "view": "https://resume-maker-18.pages.dev/",
       "code": "https://github.com/sayanpal514-hue/Resume-Maker"
     }
+  },
+  {
+    "name": "Medical AI Assistant",
+    "desc": "A comprehensive medical AI assistant providing intelligent symptom checking and tailored health advice.",
+    "image": "med-ai",
+    "category": "ai",
+    "links": {
+      "view": "https://med-ai-18.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/MED-AI"
+    }
+  },
+  {
+    "name": "Magnet Voice Assistant",
+    "desc": "An advanced, high-tech AI voice assistant featuring dynamic interactive capabilities.",
+    "image": "magnet",
+    "category": "ai",
+    "links": {
+      "view": "https://magnet-voice-assistant.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/Voice-Assistant"
+    }
   }
 ]
-
