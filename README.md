@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/images/profile_new.png" alt="Sayan Pal" width="150" style="border-radius: 50%;" />
   <h1>Sayan Pal | Personal Portfolio</h1>
   <p>A clean, responsive, and dynamic personal portfolio website to showcase my skills, experience, and projects.</p>
 
