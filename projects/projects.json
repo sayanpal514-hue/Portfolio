@@ -88,5 +88,25 @@
       "view": "https://magnet-voice-assistant.vercel.app/",
       "code": "https://github.com/sayanpal514-hue/Voice-Assistant"
     }
+  },
+  {
+    "name": "Mock Test Maker",
+    "desc": "A web application to create and take mock tests.",
+    "image": "mock_test",
+    "category": "ai",
+    "links": {
+      "view": "https://mock-test-webapp.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/Mock-Test-Maker-"
+    }
+  },
+  {
+    "name": "Book PDF Archive",
+    "desc": "An online archive for discovering and reading PDF books.",
+    "image": "book_pdf",
+    "category": "basicweb",
+    "links": {
+      "view": "https://book-pdf10.pages.dev/",
+      "code": "https://github.com/sayanpal514-hue/Book-Pdf-Archive"
+    }
   }
 ]
