@@ -22,7 +22,7 @@
   {
     "name": "Mini YT Hub",
     "desc": "A premium dark-themed video platform that auto-scrapes YouTube channels across categories like Anime, Cartoons, Bengali, Hindi, and Hollywood using yt-dlp, with smart search and a dedicated video player.",
-    "image": "mini_yt_hub",
+    "image": "Screenshot",
     "category": "basicweb",
     "links": {
       "view": "https://sayanpal514-hue.github.io/MINI-YT-HUB/",
@@ -33,7 +33,7 @@
       {
     "name": "Movie Hub Live",
     "desc": "A dynamic movie discovery platform that fetches and displays live movie data in a modern, browsable interface.",
-    "image": "movie_hub",
+    "image": "moviehub",
     "category": "basicweb",
     "links": {
       "view": "https://movie-hub-s10.vercel.app/",
