@@ -9,6 +9,16 @@
       "code": "https://github.com/sayanpal514-hue/instagram-dowloader-app-10"
     }
   },
+    {
+    "name": "All-Movies",
+    "desc": "All-Movies is a full-stack MERN application for browsing and discovering movies.",
+    "image": "allmovies",
+    "category": "mern",
+    "links": {
+      "view": "https://all-movies-sayan.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/All-Movies"
+    }
+  },
   {
     "name": "Mini YT Hub",
     "desc": "A premium dark-themed video platform that auto-scrapes YouTube channels across categories like Anime, Cartoons, Bengali, Hindi, and Hollywood using yt-dlp, with smart search and a dedicated video player.",
@@ -89,16 +99,6 @@
     "links": {
       "view": "https://zestora-sayan.vercel.app/",
       "code": "https://github.com/sayanpal514-hue/Zestora"
-    }
-  },
-  {
-    "name": "All-Movies",
-    "desc": "All-Movies is a full-stack MERN application for browsing and discovering movies.",
-    "image": "allmovies",
-    "category": "mern",
-    "links": {
-      "view": "https://all-movies-sayan.vercel.app/",
-      "code": "https://github.com/sayanpal514-hue/All-Movies"
     }
   },
   {
