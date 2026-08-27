@@ -16,8 +16,16 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
+        "name": "React",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
     },
     {
         "name": "MySQL",
@@ -34,6 +42,22 @@
     {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/50/1169ae/jquery.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/ios-filled/50/ffffff/github.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
     },
     {
         "name": "Cloudflare",
