@@ -10,6 +10,48 @@
     }
   },
   {
+    "name": "Mini YT Hub",
+    "desc": "A premium dark-themed video platform that auto-scrapes YouTube channels across categories like Anime, Cartoons, Bengali, Hindi, and Hollywood using yt-dlp, with smart search and a dedicated video player.",
+    "image": "mini_yt_hub",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sayanpal514-hue.github.io/MINI-YT-HUB/",
+      "code": "https://github.com/sayanpal514-hue/MINI-YT-HUB"
+    }
+      },
+
+      {
+    "name": "Movie Hub Live",
+    "desc": "A dynamic movie discovery platform that fetches and displays live movie data in a modern, browsable interface.",
+    "image": "movie_hub",
+    "category": "basicweb",
+    "links": {
+      "view": "https://movie-hub-s10.vercel.app/",
+      "code": "https://github.com/sayanpal514-hue/MOVIE-HUB-LIVE"
+    }
+  },
+
+    {
+    "name": "Book PDF Archive",
+    "desc": "An online archive for discovering and reading PDF books.",
+    "image": "book_pdf",
+    "category": "basicweb",
+    "links": {
+      "view": "https://book-pdf10.pages.dev/",
+      "code": "https://github.com/sayanpal514-hue/Book-Pdf-Archive"
+    }
+  },
+    {
+    "name": "Stream Player",
+    "desc": "A Python-based command-line HLS/DASH stream player powered by MPV, featuring a menu-driven terminal UI, cookie-based authentication support, and educational DRM handling.",
+    "image": "stream_player",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/sayanpal514-hue/Stream-Player",
+      "code": "https://github.com/sayanpal514-hue/Stream-Player"
+    }
+  },
+  {
     "name": "Live Weather",
     "desc": "Live Weather is a responsive weather web application that provides real-time weather for any city. Fetch live data from a public Weather API.",
     "image": "webapp",
@@ -98,15 +140,6 @@
       "view": "https://mock-test-webapp.vercel.app/",
       "code": "https://github.com/sayanpal514-hue/Mock-Test-Maker-"
     }
-  },
-  {
-    "name": "Book PDF Archive",
-    "desc": "An online archive for discovering and reading PDF books.",
-    "image": "book_pdf",
-    "category": "basicweb",
-    "links": {
-      "view": "https://book-pdf10.pages.dev/",
-      "code": "https://github.com/sayanpal514-hue/Book-Pdf-Archive"
-    }
   }
+
 ]
