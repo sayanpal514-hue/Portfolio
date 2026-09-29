@@ -43,7 +43,7 @@
     "name": "Student Management System",
     "desc": "A web-based student management system for handling student records, courses, grades, and administrative tasks efficiently.",
     "image": "student_management",
-    "category": "basicweb",
+    "category": "mern",
     "links": {
       "view": "https://github.com/sayanpal514-hue/Student-Management-System",
       "code": "https://github.com/sayanpal514-hue/Student-Management-System"
