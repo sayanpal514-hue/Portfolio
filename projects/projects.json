@@ -9,16 +9,6 @@
       "code": "https://github.com/sayanpal514-hue/instagram-dowloader-app-10"
     }
   },
-    {
-    "name": "All-Movies",
-    "desc": "All-Movies is a full-stack MERN application for browsing and discovering movies.",
-    "image": "allmovies",
-    "category": "mern",
-    "links": {
-      "view": "https://all-movies-sayan.vercel.app/",
-      "code": "https://github.com/sayanpal514-hue/All-Movies"
-    }
-  },
   {
     "name": "Mini YT Hub",
     "desc": "A premium dark-themed video platform that auto-scrapes YouTube channels across categories like Anime, Cartoons, Bengali, Hindi, and Hollywood using yt-dlp, with smart search and a dedicated video player.",
@@ -28,20 +18,38 @@
       "view": "https://sayanpal514-hue.github.io/MINI-YT-HUB/",
       "code": "https://github.com/sayanpal514-hue/MINI-YT-HUB"
     }
-      },
-
-      {
+  },
+  {
     "name": "Movie Hub Live",
     "desc": "A dynamic movie discovery platform that fetches and displays live movie data in a modern, browsable interface.",
     "image": "moviehub",
     "category": "basicweb",
     "links": {
-      "view": "https://movie-hub-s10.vercel.app/",
+      "view": "https://sportlink-movie-hub.pages.dev/",
       "code": "https://github.com/sayanpal514-hue/MOVIE-HUB-LIVE"
     }
   },
-
-    {
+   {
+    "name": "SmartCV — AI Resume Analyzer",
+    "desc": "An advanced AI-powered resume analysis and career intelligence platform built with Next.js 14 and FastAPI. Features resume upload (PDF & DOCX), AI scoring, ATS simulation, skills detection, and improvement suggestions.",
+    "image": "ai_resume_analyzer",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/sayanpal514-hue/Ai-Resume-Analyzer",
+      "code": "https://github.com/sayanpal514-hue/Ai-Resume-Analyzer"
+    }
+  },
+  {
+    "name": "Student Management System",
+    "desc": "A web-based student management system for handling student records, courses, grades, and administrative tasks efficiently.",
+    "image": "student_management",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/sayanpal514-hue/Student-Management-System",
+      "code": "https://github.com/sayanpal514-hue/Student-Management-System"
+    }
+   },
+  {
     "name": "Book PDF Archive",
     "desc": "An online archive for discovering and reading PDF books.",
     "image": "book_pdf",
@@ -51,7 +59,7 @@
       "code": "https://github.com/sayanpal514-hue/Book-Pdf-Archive"
     }
   },
-    {
+  {
     "name": "Stream Player",
     "desc": "A Python-based command-line HLS/DASH stream player powered by MPV, featuring a menu-driven terminal UI, cookie-based authentication support, and educational DRM handling.",
     "image": "stream_player",
@@ -141,5 +149,4 @@
       "code": "https://github.com/sayanpal514-hue/Mock-Test-Maker-"
     }
   }
-
 ]
